@@ -13,12 +13,12 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/Writeup_images/center_2018_01_09_17_44_10_503.jpg "Center Image"
-[image2]: ./examples/Writeup_images/left_2018_01_09_17_44_10_503.jpg "Left Image"
-[image3]: ./examples/Writeup_images/right_2018_01_09_17_44_10_503.jpg  "Right Image"
-[image4]: ./examples/Writeup_images/right_2018_01_09_17_45_03_249.jpg "Recovery Image"
-[image5]: ./examples/Writeup_images/index.png "Loss Curves"
-[image6]: ./examples/Writeup_images/flipped_image.jpg "Flipped Image"
+[image1]: ./examples/center_2018_01_09_17_44_10_503.jpg "Center Image"
+[image2]: ./examples/left_2018_01_09_17_44_10_503.jpg "Left Image"
+[image3]: ./examples/right_2018_01_09_17_44_10_503.jpg  "Right Image"
+[image4]: ./examples/right_2018_01_09_17_45_03_249.jpg "Recovery Image"
+[image5]: ./examples/index.png "Loss Curves"
+[image6]: ./examples/flipped_image.jpg "Flipped Image"
 
 ## Rubric Points
 ### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/432/view) individually and describe how I addressed each point in my implementation.  
