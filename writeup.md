@@ -79,6 +79,7 @@ Image was then cropped from the top to remove the sky and nearby trees, as they 
 Outputs from all three cameras were used for training. Data was divided into left, right and center images. For evaluating the angles associated with left and right images, a correction factor of 0.2 was used. 
 
 **Center Image**
+
 ![image1]
 
 **Left Image**
